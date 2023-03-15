@@ -16,7 +16,7 @@ const getAllOrders = async (): Promise<Order[]> => {
         orders.id = products.order_id
     GROUP BY
         orders.id;
-`
+`,
   );
   return result;
 };

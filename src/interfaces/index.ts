@@ -19,6 +19,11 @@ export interface User extends NewUser {
   id: number;
 }
 
+export interface Login {
+  username: string;
+  password: string;
+}
+
 export interface Order {
   id: number;
   userId: number;
