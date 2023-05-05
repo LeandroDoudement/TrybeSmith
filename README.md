@@ -1,13 +1,30 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# TrybeSmith
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Esse repositório contém um projeto prático desenvolvido durante o curso de Desenvolvimento de Software da [Trybe](https://www.betrybe.com/). O objetivo do projeto é desenvolver uma página web para compartilhamento de receitas.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Descrição Geral
+
+O TrybeSmith é uma página web para compartilhamento de receitas. A aplicação possui funcionalidades como criação, leitura, atualização e remoção de receitas. Além disso, é possível filtrar receitas por nome e categoria, e ordenar receitas por data de criação.
+
+## Funcionalidades
+
+O TrybeSmith possui as seguintes funcionalidades:
+
+- Criação de receitas
+- Edição de receitas
+- Remoção de receitas
+- Adição de categorias a receitas
+- Filtro de receitas por nome e categoria
+- Ordenação de receitas por data de criação
+
+## Tecnologias utilizadas
+
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- [React](https://reactjs.org/)
+- [React Router](https://reactrouter.com/)
+- [Redux](https://redux.js.org/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Jest](https://jestjs.io/) e [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) para testes automatizados
+- [Firebase](https://firebase.google.com/) para autenticação e armazenamento de dados
+
